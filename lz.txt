@@ -1,0 +1,77 @@
+🇨🇳󠁧󠁢󠁥󠁮潇洒央视,#genre#
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+📺重庆频道,#genre#
+重庆新闻,http://iptviptv.site:9694/hls/163/index.m3u8
+重庆社会,http://iptviptv.site:9694/hls/164/index.m3u8
+重庆时尚,http://iptviptv.site:9694/hls/165/index.m3u8
+重庆娱乐,http://iptviptv.site:9694/hls/166/index.m3u8
+重庆少儿,http://iptviptv.site:9694/hls/167/index.m3u8
+重庆科教,http://iptviptv.site:9694/hls/168/index.m3u8
+重庆汽摩,http://iptviptv.site:9694/hls/169/index.m3u8
+重庆新农村,http://iptviptv.site:9694/hls/171/index.m3u8
+大足综合,http://iptviptv.site:9694/hls/188/index.m3u8
+铜梁综合,http://iptviptv.site:9694/hls/172/index.m3u8
+万州综合,http://iptviptv.site:9694/hls/173/index.m3u8
+万州科教,http://iptviptv.site:9694/hls/174/index.m3u8
+万州影视,http://iptviptv.site:9694/hls/175/index.m3u8
+万州三峡移民,http://iptviptv.site:9694/hls/176/index.m3u8
+武隆综合频道,http://iptviptv.site:9694/hls/177/index.m3u8
+荣昌综合,http://iptviptv.site:9694/hls/178/index.m3u8
+江津新闻综合,http://iptviptv.site:9694/hls/179/index.m3u8
+垫江综合,http://iptviptv.site:9694/hls/180/index.m3u8
+巫山综合,http://iptviptv.site:9694/hls/181/index.m3u8
+重庆黔江,http://iptviptv.site:9694/hls/161/index.m3u8
+梁平综合,http://iptviptv.site:9694/hls/185/index.m3u8
+永川综合,http://iptviptv.site:9694/hls/186/index.m3u8
+酉阳综合,http://iptviptv.site:9694/hls/187/index.m3u8
+
+
+🐼四川频道,#genre#
+四川乡村,https://cntv.sbs/tv/v6.php?id=SCTV-kjSCTV-9-
+四川妇女儿童,https://cntv.sbs/tv/v6.php?id=SCTV-7-
+四川峨嵋电影,https://cntv.sbs/tv/v6.php?id=emdygqH265
+四川影视文艺,https://cntv.sbs/tv/v6.php?id=SCTV-5-scysH265
+四川文化旅游,https://cntv.sbs/tv/v6.php?id=SCTV-3-H265
+四川新闻,https://cntv.sbs/tv/v6.php?id=SCTV-4H265
+四川科教,https://cntv.sbs/tv/v6.php?id=SCTV-ggSCTV-8
+四川经济,https://cntv.sbs/tv/v6.php?id=SCTV-2-H265
+成都公共频道,https://cntv.sbs/tv/v6.php?id=CDTV-5
+成都影视文艺,https://cntv.sbs/tv/v6.php?id=CDTV-4
+成都新闻综合,https://cntv.sbs/tv/v6.php?id=CDTV-1
+成都经济资讯,https://cntv.sbs/tv/v6.php?id=CDTV-2
+成都都市生活,https://cntv.sbs/tv/v6.php?id=CDTV-3
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
+
+📺港澳台,#genre#
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+凤凰资讯,http://118.112.148.228:4022/udp/239.93.0.118:2191
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰电影,http://117.114.153.25:8180/TV00000000000000000072@HHZT
+翡翠台,http://113.83.152.56:8182/bynumber/1
+明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
+星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$1920x1080
+TVBS欢乐,https://z02.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
+星空卫视,http://iptv.028028.xyz:8/udp/239.93.0.156:2193
+无线星河频道,http://113.64.145.55:8081/hls/135/index.m3u8
+无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
