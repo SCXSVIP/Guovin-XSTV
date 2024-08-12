@@ -1,6 +1,6 @@
 open_update = True
 open_use_old_result = True
-source_file = "G:/GitHub/SCXSVIP/Guovin-TV/lz.txt"
+source_file = "G:/GitHub/SCXSVIP/Guovin-TV/moban.txt"
 final_file = "result.txt"
 favorite_list = ['CCTV-1', 'CCTV-2', 'CCTV-3', 'CCTV-4', 'CCTV-5', 'CCTV-5+', 'CCTV-6', 'CCTV-7', 'CCTV-8', 'CCTV-9', 'CCTV-10', 'CCTV-11', 'CCTV-12', 'CCTV-13', 'CCTV-14', 'CCTV-15', 'CCTV-16', 'CCTV-17', '重庆卫视', '重庆新闻', '浙江卫视', '湖南卫视', '广东卫视', '凤凰卫视', '翡翠台']
 open_online_search = True
